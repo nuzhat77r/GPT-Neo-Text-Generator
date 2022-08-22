@@ -1,0 +1,949 @@
+Genre,Article:,Para,Text,Important words,3 word chosen,Output,Intersection,Similarity
+Technology,Like to Tinker? NASA's Looking for You,1,"Dyson’s laser-equipped vacuum is one of the latest 
+examples of cleaning tech, products that are designed to 
+make our household hygiene as painless and efficient as
+possible. It’s an increasingly important category of 
+technology now that the pandemic has forced so many of 
+us to spend lots of time at home, creating messes that 
+never seem to go away","dyson', 'laser', 'vacuum', 'latest','examples', 
+'tech', 'products', 'household', 'hygiene', 
+'painless', 'efficient', 'possible', 'important', 
+'category', 'technology', 'pandemic', 'lots', 
+'time', 'home'","household', 'painless', 'technology'","Household painless technology,""What would you 
+do if you could see what had happened to your 
+family on a daily basis? Our family has been 
+suffering with a chronic pain condition for quite 
+some time now. One of my sons was the first to try 
+his hand at being an inventor and built a device to 
+help him cope with the pain in his neck. It turned out 
+to be a very simple device that would allow him to 
+control his computer to","in', 'quite', 'built', 'computer', 'control', 'at', 'been', 'and', 'household', 'would', 'you', 'if', 'to', 'condition', 'for', 'now.', 'his', 'very', 'turned', 'technology', 'see', 'what', 'family', 'chronic', 'help', 'out', 'it', 'time', 'being', 'could', 'some', 'has', 'be', 'pain', 'had', 'a', 'happened', 'sons', 'was', 'with', 'first', 'daily', 'try', 'an', 'my', 'do', 'of', 'device', 'simple', 'cope', 'inventor', 'our', 'the', 'to.', 'that', 'painless', 'your', 'one', 'hand', 'him', 'neck.', 'allow', 'basis?', 'suffering', 'on'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'}",14
+,,,,,"home', 'painless', 'hygiene","Home painless hygiene methods of Bath tub with 
+water that is filtered and sterilized. Make sure you 
+use at least a 5 gal bucket, as it can become quite 
+large when filled up to the rim.If you are going to a 
+health spa, you also need to check the sanitation 
+aspect of the bathing water. Most spa facilities 
+have a large tank, often labeled'sauna', which you 
+can fill","hygiene', 'methods', 'use', 'quite', 'when', 'filled', 'tub', 'and', 'water', 'you', 'health', 'most', 'to', '5', 'are', 'fill.', 'spa,', 'bathing', 'sanitation', 'gal', 'up', ""labeled'sauna',"", 'large', 'need', 'water.', 'it', 'as', 'become', 'facilities', 'tank,', 'sure', 'can', 'going', 'sterilized.', 'at', 'a', 'check', 'filtered', 'with', 'aspect', 'spa', 'of', 'least', 'the', 'rim.if', 'that', 'painless', 'which', 'also', 'have', 'bath', 'make', 'home', 'is', 'often', 'bucket,'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",12.9
+,,,,,"room', 'major', 'new'","Room major new record.The album was released 
+on 5 June 2013.Critical reception.On the album 
+launch, Mike Davis from Slant Magazine wrote: ""A 
+much more diverse selection of tracks takes the 
+concept of'sad' to new heights on this full-length, 
+but it's still a record about something that should 
+not be'sad'. It's about anger. It's about rebellion. It 
+deals with how society","society.', 'concept', 'full-length,', 'but', 'more', 'how', 'critical', 'about', 'anger.', 'to', 'not', 'still', '5', 'deals', 'magazine', 'should', '2013.', ""be'sad'."", 'album', 'room', 'slant', 'it', 'from', 'tracks', 'record', 'rebellion.', 'mike', 'june', ""of'sad'"", ""it's"", 'major', 'was', 'a', 'with', 'heights', 'wrote:', 'selection', 'of', 'much', 'diverse', 'takes', 'the', 'released', 'davis', 'launch,', 'something', 'that', 'record.', 'this', 'new', 'reception.', 'on'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",4.12
+,,,,,"hygiene', 'time', 'pandemic'","Hygiene time pandemic {#s1}
+====================
+
+For two decades the global pandemic of *H. pylori
+* infection has been a great concern in public health. 
+The eradication rate for the treatment of *H. pylori* 
+has been over 90% and the eradication of duodenal 
+ulcer has been 100% \[[@B1],[@B2]\]. The World 
+Health","infection', 'in', 'hygiene', 'rate', '{#s1}====================for', 'global', 'been', 'and', '*h.', 'for', 'health.', 'over', 'world', 'concern', 'ulcer', 'time', 'great', 'treatment', 'public', 'has', '100%', '90%', 'pylori*', 'a', 'duodenal', 'of', 'two', 'the', 'eradication', 'pandemic', '\\[[@b1],[@b2]\\].', 'decades'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'}",9.56
+,,,,,"household', 'time', 'category'","Household time category
+In retail, a household time category is an item in a 
+store or department store that is bought by a 
+customer at the time of purchase while other items 
+for which a customer is searching for the purchase 
+are displayed in front of the customer's chosen 
+merchandise. A customer may then purchase 
+another product from any of the displayed items. 
+This time category also includes items purchased 
+at the time of purchase for other items the 
+customer has already purchased","in', 'category', 'household', 'displayed', 'then', ""customer's"", 'for', 'store', 'are', 'front', 'chosen', 'items.', 'product', 'purchased', 'already', 'retail,', 'includes', 'while', 'merchandise.', 'purchase', 'customer', 'department', 'time', 'may', 'from', 'searching', 'has', 'any', 'at', 'an', 'a', 'item', 'items', 'is', 'another', 'bought', 'of', 'or', 'other', 'the', 'that', 'which', 'also', 'this', 'by'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",13.25
+,,,,,"category', 'examples', 'household'","Category examples household/non-household 
+categories
+
+Home/Condo/Rental
+
+The number of properties with zero rental prices to 
+the total number of dwellings in the respective areas.
+
+The number of homeowners and renters in the 
+respective areas.
+
+The fraction of renters in the respective areas that 
+are in the owner-occupied housing units (OHUs).
+
+The fraction of non-owning (non-HOA)","prices', 'in', 'category', 'and', 'owner-occupied', 'to', 'examples', 'are', 'home/condo/rental.', 'areas.', 'number', 'units', 'dwellings', 'respective', 'rental', 'homeowners', 'fraction', 'with', 'areas', '(ohus).', 'household/non-household', 'of', 'categories', 'the', 'total', 'non-owning', 'that', 'zero', 'properties', '(non-hoa).', 'housing', 'renters'} {'hygiene', 'tech,', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'away', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'}
+S",10.96
+,,,,,"technology', 'tech', 'time'","Technology tech time travel. The future. The past. 
+And I'm the guy asking for your help. With this blog, I
+'m hoping to find a way to blend technology with 
+old fashioned historical storytelling to bring you an 
+interactive, immersive, and occasionally silly journey 
+back into the past.
+
+Sunday, January 24, 2010
+
+If you're not familiar with the Internet, you probably 
+come here for the technology blogs. That's not quite right","bring', 'quite', 'blend', 'future.', 'and', 'you', 'storytelling', 'if', 'probably', 'january', 'to', 'not', 'for', 'back', 'immersive,', 'technology', ""i'm"", 'right.', 'guy', 'blog,', '24,', ""that's"", 'time', 'travel.', 'way', 'old', 'help.', 'interactive,', 'tech', 'historical', 'an', 'a', ""you're"", 'with', 'fashioned', 'familiar', 'find', 'sunday,', 'internet,', 'the', 'silly', 'into', 'blogs.', 'your', 'past.', 'journey', 'hoping', 'come', 'this', 'here', 'occasionally', 'asking', '2010.'} {'hygiene', 'tech,', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'away', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",6.25
+,,,,,"efficient', 'household', 'latest'","Efficient household latest information,
+
+All of us don't want to find out that the person in the 
+picture is still alive and can be happy, but there are 
+lots of reasons to not forget about her and don't want 
+to take the chance to be in a situation if she's still 
+alive. Here are 6 of the reasons why you shouldn't 
+forget about your wife or girlfriend when you think 
+she is in a bad mood:","in', 'her', ""she's"", 'when', 'think', 'and', 'household', 'but', 'you', 'if', 'about', 'to', 'not', 'all', 'want', 'still', 'happy,', 'are', 'why', 'she', 'us', 'there', 'alive.', 'lots', 'take', 'bad', 'forget', 'out', 'picture', '6', 'chance', 'latest', 'can', 'mood.', 'alive', 'be', 'situation', ""shouldn't"", 'a', 'person', 'is', 'of', 'or', 'find', 'the', 'information,', 'that', 'your', 'here', 'efficient', ""don't"", 'wife', 'reasons', 'girlfriend'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",13.19
+,,,,,"time', 'examples', 'vacuum'","Time examples vacuum
+
+I am working on a project right now where I 
+need to understand how to create a ""clean"" 
+example of how to use NUnit. What's the best 
+way to get started with testing, and how could I 
+approach this?
+I'm using the Nuget installer for NUnit.
+Here's what I think I want to achieve:
+
+In my class Foo, I have a method SetUp. This runs","in', 'understand', 'use', 'class', 'started', 'think', 'and', 'now', 'approach', 'how', 'using', 'get', 'to', 'for', 'want', 'examples', ""i'm"", 'what', 'installer', 'nuget', 'need', ""here's"", 'project', 'time', 'best', 'runs.', 'working', 'method', 'could', 'vacuum', 'achieve:', 'way', 'foo,', 'right', 'where', ""what's"", 'an', 'a', 'i', 'with', 'my', 'this?', 'of', 'create', 'example', 'setup.', 'the', 'am', 'nunit.', 'testing,', 'have', 'this', 'on'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",9.68
+,,,,,"painless', 'laser', 'products'","Painless laser products may be found on the 
+market today, but many of the same principles 
+which make these devices so effective are still 
+under development. We are not aware of any prior 
+art that describes or discloses the specific problem 
+which the present invention addresses.
+Many prior attempts have been made to address 
+this problem.
+U.S. Pat. No. 3,948,813, issued to Eisele on May 
+10, 1976","under', 'pat.', 'been', 'art', 'problem', 'but', '10,', 'describes', 'no.', 'many', '1976', 'to', 'not', 'still', 'products', 'are', 'found', 'effective', 'issued', 'devices', 'may', 'discloses', 'laser', 'we', 'invention', 'aware', 'development.', 'these', 'be', 'any', 'attempts', 'eisele', 'today,', 'same', 'problem.', 'so', 'prior', 'of', 'or', 'made', 'address', '3,948,813,', 'principles', 'the', 'specific', 'which', 'painless', 'that', 'u.s.', 'have', 'make', 'this', 'market', 'present', 'addresses.', 'on'} {'hygiene', 'tech,', 'away.', 'and', 'household', 'category', 'now', 'many', 'to', 'examples', 'are', 'technology', 'us', 'creating', 'lots', 'possible.', 'important', 'it’s', 'time', 'as', 'laser-equipped', 'home,', 'cleaning', 'vacuum', 'designed', 'latest', 'seem', 'has', 'at', 'an', 'never', 'so', 'of', 'spend', 'our', 'the', 'forced', 'that', 'painless', 'one', 'go', 'efficient', 'make', 'messes', 'products', 'pandemic', 'is', 'dyson’s', 'increasingly'",10.53
+,,,,,,,,
+,,2,"When the contest was held last October, none of the eight 
+entrants made it all the way up the ribbon. But Mr. Jones's 
+Snowstar machine traveled farthest, all of 20 feet. The 
+hexagonal array of solar cells, powering two pairs of rollers 
+that shimmied up the ribbon, was judged Most Likely to 
+Win in the 2006 challenge, set for August. The prize has 
+been increased to $250,000 this year, from $50,000. To 
+win, the climbers must make it up the ribbon in less than 
+a minute. So far, 19 teams have signed up, nearly twice 
+as many as in 2005. ","contest', 'october', 'entrants', 'way', 'ribbon', 
+'mr', 'jones', 'snowstar', 'machine', 'feet', 
+'hexagonal', 'array', 'solar', 'cells', 'pairs', 
+'rollers', 'ribbon', 'likely', 'challenge', 
+'august', 'prize', 'year', 'climbers', 
+'ribbon', 'minute', 'teams","climbers', 'rollers', 'ribbon'","Climbers rollers ribbon down the middle of the road 
+on a motorbike ride at a park in New York City.
+Photo: Michael Yarish/Getty Images/iStockphoto
+
+It’s safe to say that every time someone asks me 
+what I think of cycling, I get excited.
+
+In a way, I’ve been riding the bike since the fifth 
+grade. It wasn’t until this year","until', 'in', 'i’ve', 'year.', 'rollers', 'think', 'been', 'since', 'safe', 'get', 'way,', 'to', 'fifth', 'climbers', 'wasn’t', 'middle', 'motorbike', 'asks', 'what', 'bike', 'park', 'down', 'ribbon', 'excited.', 'me', 'cycling,', 'it’s', 'time', 'it', 'every', 'riding', 'at', 'a', 'yarish/getty', 'i', 'images/istockphoto.', 'road', 'of', 'say', 'ride', 'the', 'city.', 'that', 'grade.', 'york', 'michael', 'this', 'photo:', 'new', 'someone', 'on'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",10.26
+,,,,,"challenge', 'teams', 'august'","Challenge teams august 2015
+
+I am a little late with this one, but I am happy to 
+announce that the 2012-2013 team has been 
+dissolved. Congratulations to everyone who took 
+part in the challenges. Everyone that participated 
+was amazing and I have received so many 
+messages of support throughout the challenges - I 
+wish you all the happiness and success in this new 
+adventure.
+
+A big thank you to everyone who joined our team l
+ast year - we","in', 'been', 'participated', 'and', 'but', 'you', 'congratulations', 'happy', 'many', 'to', 'announce', 'all', 'success', '-', '2012-2013', 'challenges', 'dissolved.', '2015', 'challenge', 'throughout', 'happiness', 'adventure.', 'we', 'has', 'messages', 'last', 'august', 'was', 'a', 'i', 'big', 'with', 'thank', 'so', 'one,', 'took', 'of', 'joined', 'part', 'challenges.', 'amazing', 'received', 'support', 'the', 'am', 'who', 'our', 'that', 'team', 'teams', 'wish', 'year', 'late', 'this', 'have', 'everyone', 'new', 'little'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'}
+S",14.28
+,,,,,"likely', 'year', 'ribbon'","Likely year ribbon for 2012
+
+The new years eve dinner is on the agenda this 
+year. Our friends at The Royal, and the wonderful 
+folks at Briscoe House Inn, have been looking for 
+some creative ideas and we’ve decided to do 
+something a little different this year. We’ve invited 
+some of our favorite bloggers and writers to come 
+and dish on their top picks from their favorite foods 
+as well as some lesser-known","year.', 'dish', 'been', 'and', 'to', 'for', 'foods', 'invited', 'decided', '2012', 'agenda', 'likely', 'ideas', 'ribbon', 'bloggers', 'dinner', 'years', 'wonderful', 'inn,', 'picks', 'folks', 'briscoe', 'top', 'from', 'as', 'lesser-known', 'some', 'royal,', 'we’ve', 'eve', 'looking', 'at', 'a', 'well', 'their', 'do', 'creative', 'little', 'of', 'house', 'favorite', 'friends', 'our', 'the', 'writers', 'something', 'year', 'come', 'this', 'have', 'new', 'is', 'different', 'on'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'}
+S",10
+,,,,,"pairs', 'contest', 'jones'","Pairs contest jones -
+
+Pairs contest jones -
+
+Pairs... more...
+
+With the help of her friends, she takes on the 
+biggest tasks and deals with a lot of difficult things 
+along... more...
+
+Pairs... more...
+
+Pairs... more...
+
+For many, the most common pairing, with a male 
+and a female, is the relationship between a man... 
+more...",,6.6
+,,,,,"minute', 'challenge', 'entrants'","Minute challenge entrants will be divided into three 
+groups of three, for a total of 48 players and 24 
+minutes, in an elimination tournament held on 
+Wednesday night.
+
+
+
+The tournament was devised by the European 
+Federation of Games, Sport, Art and Architecture 
+and the local team organisers.
+
+
+
+The tournament takes place inside the Grand Hall of 
+the University of Oxford, located in central Oxford, 
+with the entrance free of charge. It is open to","in', 'games,', 'hall', 'art', 'and', 'free', 'inside', '48', 'for', 'place', 'open', 'grand', 'federation', 'entrants', 'architecture', 'minute', 'challenge', 'entrance', 'three,', 'minutes,', 'groups', 'organisers.', 'it', 'tournament', 'sport,', 'players', 'three', '24', 'local', 'be', 'was', 'an', 'a', 'university', 'with', 'held', 'is', 'divided', 'of', 'takes', 'will', 'elimination', 'wednesday', 'the', 'into', 'total', 'devised', 'located', 'central', 'team', 'charge.', 'to.', 'oxford,', 'night.', 'by', 'european', 'on'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",7.14
+,,,,,"cells', 'jones', 'challenge'","Cells jones challenge the ""noise"" generated by 
+""normal"" people walking down a sidewalk
+
+""You're probably not going to walk down the block at 
+night, are you?""
+
+""I guess not,"" a confused police officer says through 
+the megaphone, looking over his shoulder. ""You can't 
+just walk down the street by yourself.""
+
+""Actually, I do walk down the block by myself,"" I say","just', 'through', 'not,', 'you', 'say.', 'probably', 'confused', 'to', 'not', 'his', 'shoulder.', 'police', 'are', 'walking', 'says', 'people', 'down', 'night,', 'generated', 'over', 'challenge', 'noise', 'guess', 'officer', 'normal', 'walk', 'looking', 'street', 'going', 'at', 'myself,', 'a', ""you're"", 'i', 'do', 'block', 'sidewalk', 'you?i', 'the', 'yourself.actually,', 'jones', ""can't"", 'by', 'megaphone,', 'cells'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",2.5
+,,,,,"pairs', 'challenge', 'array'","Pairs challenge array-Paired-pairs challenge array-
+Paired-pairs: challenges, challenges and more 
+challenges to the algorithm.
+
+Challenge array-Paired-pairs challenge array-
+Paired-pairs: challenges, challenges and more 
+challenges to the algorithm.
+
+Challenge array challenge array challenge array 
+challenge array challenge array challenge array 
+challenge array challenge array challenge array.
+
+Hexacode Challenge Challenge","{'hexacode', 'challenges', 'the', 'pairs', 'paired-pairs:', 'array-', 'and', 'more', 'challenge', 'challenges,', 'to', 'array.', 'algorithm.', 'array', 'array-paired-pairs'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",4.49
+,,,,,"pairs', 'way', 'entrants'","Pairs way entrants’ performance with their own.
+
+A good day for all.
+
+Now comes the ‘I thought I’d never do it’ part of the 
+game for me in the last 24 hours,
+I have been told that my performance has been as 
+expected, my self-belief as well.
+
+There have been a lot of bad days lately and maybe 
+this will boost me up a","in', 'it’', 'entrants’', 'game', 'days', 'been', 'lot', 'and', 'now', '‘i', 'for', 'all.', 'hours,', 'there', 'up', 'performance', 'bad', 'expected,', 'me', 'as', 'way', 'own.', 'has', 'maybe', '24', 'well.', 'last', 'a', 'never', 'i', 'with', 'thought', 'good', 'their', 'my', 'do', 'of', 'part', 'will', 'i’d', 'the', 'pairs', 'day', 'lately', 'that', 'boost', 'have', 'this', 'told', 'comes', 'self-belief'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",13.16
+,,,,,"hexagonal', 'challenge', 'ribbon'","Hexagonal challenge ribbon
+
+Hexagonal challenge ribbon (HCR) is an alternative 
+to the regular Challenge Hexagon for most 
+hexagonal challenges.
+
+In Challenge Hexagons, regular hexagons share the 
+same hexagonal shape. In challenge hexagons, the 
+edge lengths of the regular hexagon are set as two 
+larger than the edge lengths of any hexagonal 
+challenge. The edges of the regular hexagon are
+ longer in the challenge than in","alternative', 'in', 'larger', '(hcr)', 'most', 'to', 'for', 'are', 'edge', 'challenge.', 'hexagonal', 'ribbon', 'challenge', 'edges', 'share', 'hexagon', 'as', 'hexagons', 'hexagons,', 'in.', 'any', 'shape.', 'an', 'same', 'of', 'two', 'regular', 'lengths', 'challenges.', 'the', 'than', 'set', 'anger', 'is'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",12
+,,,,,"contest', 'machine', 'teams'","Contest machine teams are the dream of sports 
+marketers who can use an online digital platform to 
+engage fans, engage fans with digital products and 
+win prizes. They need an experienced game 
+designer who understands the culture and can create 
+engaging experiences that bring in money. But it can 
+be hard to get good creative skills in the fast-paced 
+competitive world of sports.A team without a dedicated 
+game designer can have no chance at winning. It’s","win', 'bring', 'in', 'use', 'game', 'online', 'sports', 'and', 'understands', 'culture', 'but', 'hard', 'get', 'to', 'experienced', 'fans,', 'fans', 'are', 'fast-paced', 'no', 'digital', 'designer', 'engage', 'dream', 'skills', 'money.', 'world', 'need', 'experiences', 'it', 'chance', 'can', 'sports.a', 'marketers', 'be', 'dedicated', 'they', 'an', 'engaging', 'a', 'at', 'with', 'good', 'creative', 'of', 'contest', 'create', 'prizes.', 'the', 'who', 'competitive', 'that', 'team', 'teams', 'machine', 'platform', 'winning.', 'have', 'products', 'without'} {'october,', 'to', 'all', 'traveled', 'ribbon', 'minute.', 'snowstar', 'way', 'none', 'increased', 'signed', '2005.', 'far,', 'so', 'two', '$50,000.', 'solar', 'that', 'this', 'have', 'in', 'when', 'rollers', 'been', 'but', 'most', 'many', 'feet.', 'for', 'climbers', 'entrants', 'up,', 'august.', 'prize', 'hexagonal', 'array', 'has', '2006', 'was', ""jones's"", 'less', '19', 'farthest,', 'held', '20', 'contest', '$250,000', 'make', 'win', 'win,', 'shimmied', 'twice', 'up', 'powering', 'mr.', 'ribbon.', 'last', 'challenge,', 'the', 'pairs', 'teams', 'ribbon,', 'nearly', 'judged', 'likely', 'it', 'from', 'as', 'year,', 'a', 'cells,', 'eight', 'of', 'made', 'machine', 'must', 'set', 'than'",10.4
+,,,,,,,,
+,,3,"Many of NASA's contests also center on robotics. The 
+Telerobotic Construction Challenge, scheduled for August 
+2007, requires a team of machines to assemble items with 
+minimal human supervision. The idea is to let robots, 
+instead of astronauts, build shelters and machinery on 
+the moon and Mars. In the Regolith Excavation Challenge, 
+set for May 2007, an autonomous machine will have to dig 
+through 24 square meters of simulated moon rock. A 
+separate Regolith Oxygen competition, scheduled for 
+2008, will be held for robots that can extract oxygen from 
+the stones. Some contests will be held annually; others 
+will be one-time events.","nasa', 'contests', 'robotics', 'telerobotic', 
+'construction', 'challenge', 'august', 'team', 
+'machines', 'items', 'minimal', 'human', 
+'supervision', 'idea', 'robots', 'astronauts', 
+'shelters', 'machinery', 'moon', 'mars', 
+'regolith', 'excavation', 'challenge', 
+'autonomous', 'machine', 'square', 'meters', 
+'moon', 'rock', 'separate', 'regolith', 
+'oxygen', 'competition', 'robots', 'oxygen', 
+'stones', 'contests', 'time', 'events'","excavation', 'moon', 'robots'","Excavation moon robots are very common in sci-fi 
+or just in a movie. Usually they are shown to work 
+more or less like a human but in a new way. The 
+most famous ones are the Digibots, a robotic arm 
+for digging deep in the sand and the Sentrybot, a 
+small robot with many more functions.
+
+The most ambitious project is the Moonbot, a lunar 
+exploration robot that’s designed to","in', 'just', 'and', 'but', 'more', 'ones', 'most', 'digging', 'many', 'very', 'to', 'for', 'are', 'sci-fi', 'like', 'digibots,', 'famous', 'work', 'common', 'robots', 'ambitious', 'project', 'functions.', 'shown', 'exploration', 'designed', 'movie.', 'usually', 'sand', 'moon', 'robotic', 'small', 'that’s', 'they', 'a', 'arm', 'less', 'with', 'moonbot,', 'excavation', 'robot', 'sentrybot,', 'or', 'way.', 'the', 'deep', 'human', 'new', 'is', 'lunar'} {'in', 'meters', 'oxygen', ""nasa's"", 'machines', 'through', '2008,', 'and', 'many', 'assemble', 'minimal', 'to', 'for', 'center', 'one-time', '2007,', 'scheduled', 'telerobotic', 'requires', 'idea', 'instead', 'robots', 'others', 'annually;', 'let', 'may', 'construction', 'from', 'mars.', 'competition,', 'some', 'can', 'moon', '24', 'astronauts,', 'simulated', 'be', 'challenge,', 'august', 'an', 'a', 'shelters', 'stones.', 'robotics.', 'items', 'with', 'autonomous', 'square', 'excavation', 'rock.', 'separate', 'held', 'of', 'build', 'extract', 'will', 'regolith', 'the', 'supervision.', 'human', 'contests', 'team', 'machinery', 'machine', 'set', 'that', 'also', 'robots,', 'have', 'events.', 'dig', 'is', 'on'",11.81
+,,,,,"oxygen', 'challenge', 'telerobotic'","Oxygen challenge telerobotic surgery for liver 
+regeneration.We have characterized the oxygen 
+demand during the surgical procedure of liver 
+resection for liver regeneration using the Oxygen 
+demand, Oxygen consumption, and oxygen debt 
+monitor. The ODO monitor was developed to measure 
+the oxygen demand during human liver resection to 
+determine the surgical procedure. The ODO monitor
+automatically measured the oxygen consumption 
+during liver surgery. The results indicated that the","indicated', 'oxygen', 'consumption', 'surgical', 'using', 'and', 'procedure', 'to', 'for', 'monitor', 'telerobotic', 'regeneration', 'measured', 'liver', 'challenge', 'procedure.', 'demand', 'automatically', 'demand,', 'during', 'determine', 'surgery.', 'was', 'odo', 'measure', 'developed', 'of', 'surgery', 'debt', 'the', 'monitor.', 'human', 'that', 'results', 'have', 'characterized', 'consumption,', 'regeneration.we', 'resection'} {'in', 'meters', 'oxygen', ""nasa's"", 'machines', 'through', '2008,', 'and', 'many', 'assemble', 'minimal', 'to', 'for', 'center', 'one-time', '2007,', 'scheduled', 'telerobotic', 'requires', 'idea', 'instead', 'robots', 'others', 'annually;', 'let', 'may', 'construction', 'from', 'mars.', 'competition,', 'some', 'can', 'moon', '24', 'astronauts,', 'simulated', 'be', 'challenge,', 'august', 'an', 'a', 'shelters', 'stones.', 'robotics.', 'items', 'with', 'autonomous', 'square', 'excavation', 'rock.', 'separate', 'held', 'of', 'build', 'extract', 'will', 'regolith', 'the', 'supervision.', 'human', 'contests', 'team', 'machinery', 'machine', 'set', 'that', 'also', 'robots,', 'have', 'events.', 'dig', 'is', 'on'",9.8
+,,,,,"supervision', 'challenge', 'nasa'","Supervision challenge nasa
+
+How to Supervision your dog on daily and weekly 
+walks
+
+A good dog owner is a good life, as well as a good 
+dog. There is some sense of the dog’s well being, 
+and you need to take care of him. It’s hard to ignore 
+the dog’s emotions that are just as important, 
+unless it’s a very small dog, that’","just', 'being,', 'and', 'how', 'you', 'hard', 'unless', 'that.', 'to', 'life,', 'very', 'are', 'ignore', 'dog.', 'there', 'take', 'challenge', 'walks.', 'need', 'it’s', 'as', 'care', 'some', 'nasa', 'dog', 'owner', 'small', 'dog,', 'sense', 'a', 'well', 'weekly', 'him.', 'good', 'daily', 'is', 'emotions', 'of', 'the', 'that', 'your', 'supervision', 'important,', 'dog’s', 'on'} {'in', 'meters', 'oxygen', ""nasa's"", 'machines', 'through', '2008,', 'and', 'many', 'assemble', 'minimal', 'to', 'for', 'center', 'one-time', '2007,', 'scheduled', 'telerobotic', 'requires', 'idea', 'instead', 'robots', 'others', 'annually;', 'let', 'may', 'construction', 'from', 'mars.', 'competition,', 'some', 'can', 'moon', '24', 'astronauts,', 'simulated', 'be', 'challenge,', 'august', 'an', 'a', 'shelters', 'stones.', 'robotics.', 'items', 'with', 'autonomous', 'square', 'excavation', 'rock.', 'separate', 'held', 'of', 'build', 'extract', 'will', 'regolith', 'the', 'supervision.', 'human', 'contests', 'team', 'machinery', 'machine', 'set', 'that', 'also', 'robots,', 'have', 'events.', 'dig', 'is', 'on'",8.26
+,,,,,"human', 'moon', 'minimal'","Human moon minimalism
+
+The Human Moon  is a style of minimal installation 
+art. The project was developed by artist Tim 
+Schreier and was first exhibited in 2000. Since then 
+human moon art has become a prominent form of art 
+in New York and the United States. The style is 
+characterized by a minimalistic form of expression 
+in which the artist's intention is to inspire or entertain 
+the audience.
+
+Human moon art is primarily based on photography
+",,
+,,,,,"regolith', 'contests', 'items'","Regolith contests items have been a staple of the 
+science fiction genre since the mid to late '90s. In 
+each story there is a theme that is a part of the 
+book's mythology, whether it's the origin of humanity 
+or the origins of Earth itself. One of the most well 
+known is the contest between the planetoid Narsil 
+and the planet Zodak.
+
+The Narsil are planets located in the Milky Way that
+",,
+,,,,,"oxygen', 'challenge', 'regolith'","Oxygen challenge regolith in a desert sandstone area 
+near Tumacácori, Guanahani, Republic of Peru. 
+In-situ O3S (Oxygen-3) spectroscopy using 
+field-programmed electronic structure (FPES) 
+reveals the presence of a major fraction of oxygen-
+containing minerals in the studied regolith of the 
+Patarco-Pampas desert, close to the Peruvian sub
+",,
+,,,,,"square', 'construction', 'stones'","Square construction stones
+
+Square construction stones are also called 
+kerbstones or stone masons. They are the 
+stone work 
+used to form the corners of a building. Squares 
+are the 
+basic building elements of architecture. Square 
+construction stones are constructed in a similar 
+way 
+as stone blocks, but are much bigger 
+(sometimes as 
+much as two meters long) and are typically 
+found on 
+the outer faces of walls. Square construction 
+stones are 
+shaped in a manner known as",,
+,,,,,"competition', 'time', 'astronauts'","Competition time astronauts. All the best. Now 
+that we’ve gotten some insight into the space 
+program, maybe we should actually get in touch 
+with these people.""
+
+I'm going to pretend that neither of us has ever 
+made a direct request of the astronauts to meet 
+with us before. They have every right to decline to 
+meet with anyone. But no, we've met before 
+because, well, we've met before, and we",,
+,,,,,"idea', 'machinery', 'challenge'","Idea machinery challenge: How to automate the 
+process of selecting the right idea ideas?
+
+Automating Idea Managing:
+
+How to choose the most suitable ideas and 
+ideas, to
+save time and energy?
+
+In fact, more than 90 percent of the projects 
+are not done, because there is no easy way to 
+get the right idea ideas. And because, 
+nowadays, we have so many different projects 
+to choose from or even better",,
+,,,,,"robots', 'challenge', 'human'","Robots challenge human dexterity in a new way
+
+Robot-controlled robots could find a new, more 
+powerful use for their hands
+
+Researchers at ETH Zurich and the University 
+of Zurich’s Institute for Robotics and Intelligent 
+Systems have developed an experimental robot 
+that can use its hands to hold a tool without 
+moving their fingers. The research was 
+published in the journal Industrial Robotics 
+and Systems.
+
+To demonstrate this new, more efficient use of the",,
+,,,,,,,,
+Fitness,"Many Common Medications Can Raise Your 
+Blood Pressure",1,"In a year filled with Covid-related hopes, setbacks, 
+advances and losses, the most vital exercise science of 
+2021 provided a reminder that for many of us, our bodies 
+and minds can strengthen, endure and flourish, no matter 
+our circumstances. If we move our bodies in the right ways,
+a growing body of evidence suggests we might live with 
+greater stamina, purpose and cognitive clarity for many 
+years to come. And it may not take much movement.","
+
+'year', 'covid', 'hopes', 'setbacks', 
+'advances', 'losses', 'vital', 'exercise', 
+'science', 'reminder', 'bodies', 'minds', 
+'circumstances', 'bodies', 'right', 'ways', 
+'body', 'evidence', 'greater', 'stamina', 
+'purpose', 'cognitive', 'clarity', 'years', 
+'movement'","exercise', 'bodies', 'vital'","Exercise bodies vital in helping you to stay strong
+ and healthy
+
+How to use BODYMINDEX?
+
+BODYMINDEX is a popular body fitness and 
+wellness tool used by millions of users daily. The
+ application is easy to use on any device but it 
+can be customised to suit your needs, so you 
+can customise the way you use and the 
+application to suit your needs. You can even 
+create a bodymindmodel",,
+,,,,,"cognitive', 'right', 'evidence'","Cognitive right evidence. Cognitive left evidence. 
+The evidence is, in the end, as much about the 
+person who is doing the cognitive right as it is 
+about the evidence. — Richard Thaler
+
+Psychologists use the term evidence to refer to 
+observable facts of an investigation. In everyday 
+language, evidence is the observable facts, 
+whether we say they are facts of an investigation
+ or facts about the mind. In the context of 
+psychology, evidence is a
+",,
+,,,,,"losses', 'ways', 'bodies'","Losses ways bodies with the same disease
+
+The story of a life and death struggle with a 
+mysterious brain disease
+
+One of the world's biggest epidemics is still 
+unfolding: the mysterious chronic neurological 
+condition known as Alzheimer's disease. One 
+thing is for sure: it's going to take a lot longer 
+than we expected to figure out what went wrong 
+so many people with Alzheimer's suffered the 
+same fate before them. In January, Dr.",,
+,,,,,"covid', 'bodies', 'years'","Covid bodies years ago,
+in the early 2000s, saw unprecedented
+economic damage caused by the coronavirus.
+These economic damages were spread
+across a range of sectors, from
+the entertainment industry,
+to the hospitality industry,
+to the healthcare sector, to the
+agricultural sector, to the mining
+sector, and so on.
+But as global demand for products
+across all sectors continued to
+",,
+,,,,,"setbacks', 'reminder', 'hopes'","Setbacks reminder hopes that Trump’s agenda 
+will be put on the fast track.
+
+At least 25 of the president’s nominees have 
+already been scheduled for Senate consideration.
+
+While much of the president’s domestic 
+agenda has already been signed into law, much 
+of his foreign policy agenda remains undecided.
+
+“All of the things that I’ve seen that are going on 
+right now, people are waiting
+",,
+,,,,,"stamina', 'clarity', 'minds'","Stamina clarity minds may play a role on the 
+success of the study (Kolling et al., 2010).
+
+The purpose of our research was to determine 
+whether a longer relaxation time after a short-
+term task was related to a better performance at 
+an unrelated cognitive task or to an improvement 
+in attentional performance. We used two sets of 
+experiments, one with high and one with low 
+cognitive load. In Experiment 1 we compared two 
+groups of subjects
+",,
+,,,,,"body', 'advances', 'circumstances'","Body advances circumstances of the death 
+penalty.In many cases, the execution of the 
+person condemned to death has a life-altering 
+effect. Many consider it cruel and unusual 
+punishment. Also, the cost of execution is high.
+The United States Constitution requires a 
+sentence of death be commuted to imprisonment 
+for life if the jury recommends against the death 
+penalty. In many jurisdictions, the jury 
+recommendation against the death penalty has 
+been upheld.",,
+,,,,,"reminder', 'evidence', 'clarity'","Reminder evidence clarity
+
+A reminder is a piece of written material that gives
+ a reminder of a specific event or situation that is 
+of importance. It is most often used by 
+organisations to make an important 
+announcement, event or action known to the 
+public as well as to employees, customers, 
+suppliers, shareholders and staff and in the 
+case of an organisation of a company having a 
+meeting, it is most likely to be used by the staff 
+on a day-",,
+,,,,,"losses', 'stamina', 'body'","Losses stamina body and mind, physical 
+exercise is needed to improve the quality of life 
+and to keep the body fit and shape. You will 
+start sweating when you take physical activity 
+like jog or walk. In this article, you can know 
+everything about physical activities that you can 
+do. Let’s read how to keep your body fit and 
+shape and how much exercise you need for 
+various activities of the day.
+
+What Is Physical Activity?",,
+,,,,,"movement', 'body', 'exercise'","Movement body exercise (MBE) is a structured 
+exercise programme designed to improve the 
+functional mobility of people with low mobility 
+disability. It is a non-pharmacological 
+intervention.^[@bibr9-2055207618788075]^ A 
+MBE usually includes three elements: core 
+muscle strengthening, balance exercises and 
+functional mobility exercises.^[@bibr10-2055207
+618788075]^ The",,
+,,,,,,,,
+,,2,"In fact, some of the year’s biggest fitness news 
+concerned how little exercise we might be able to 
+get away with, while maintaining or even improving
+ our health. A study from January, for instance, 
+showed that just five minutes of intense 
+calisthenics substantially improved college 
+students’ aerobic fitness and leg strength. Another
+ series of studies from the University of Texas 
+found that four seconds — yes, seconds — of 
+ferocious bicycle pedaling, repeated several times
+, was enough to raise adults’ strength and 
+endurance, whatever their age or health when 
+they started.","fact', 'year', 'biggest', 'fitness', 'news', 
+'little', 'exercise', 'able', 'health', 'study', 
+'january', 'instance', 'minutes', 'intense', 
+'calisthenics', 'college', 'students', 
+'aerobic', 'fitness', 'leg', 'strength', 'series', 
+'studies', 'university', 'texas', 'seconds', 
+'seconds', 'ferocious', 'bicycle', 'pedaling', 
+'times', 'adults', 'strength', 'endurance', 
+'age', 'health'","instance', 'fitness', 'biggest'","Instance fitness biggest)
+
+Now, from all of this, what happens with your 
+data?
+
+You can use MapReduce to process your data 
+very fast because it can take only O(log N) time to
+ process, and also it can process the data very 
+fast because MapReduce uses O(log N) time to 
+process.
+
+For example, assume that you have data from 
+this dataset:
+
+You can use Spark",,
+,,,,,"university', 'health', 'aerobic'","University health aerobic fitness classes 
+(AHFCs) are a popular form of exercise that 
+combines aerobic and resistance training, with 
+the aerobic work usually being done in an 
+exercise room. The aerobic work involves the 
+whole body's work, while resistance training is 
+more specific and focuses on building muscle 
+through joint loading. In order to learn the proper 
+and effective use of AHFCs, it is important to 
+understand proper form. The form has three 
+parts: 1)",,
+,,,,,"year', 'january', 'college'","Year january college application essay examples
+
+Jan 1, 2015 … I’ve been asked this a couple of 
+times and it always came up as “What are some 
+good college application essays” but I haven’t 
+found a good way to write a college essay. In a 
+world where so much information is available 
+to you online, it would be nice to have a good 
+essay that… »
+
+Jan 2, 2015 …",,
+,,,,,"strength', 'fitness', 'minutes'","Strength fitness minutes
+
+Strength fitness minutes (SFM) are short, high 
+intensity training sessions designed to increase 
+muscle strength and conditioning. The idea of 
+SFM sessions is to utilize the muscle building 
+benefits of resistance training and to apply the 
+increased strength to improve the overall 
+strength, speed, balance, and aerobic 
+conditioning of the body. These types of training 
+sessions are suitable for people of all strengths, 
+ages, and levels of fitness.
+
+This type",,
+,,,,,"bicycle', 'health', 'year'","Bicycle health year
+
+My son was born in April (10 months) and last 
+year I started cycling to get fit and lose weight. My 
+husband is more of a runner and we had started
+biking for a long time too.
+
+We're both in the process of becoming more 
+active with the kids and with the wife. We've 
+decided to start walking, biking, and rollerblading 
+on weekends instead.
+
+Is this too soon",,
+,,,,,"series', 'little', 'adults'","Series little adults
+
+The Zune family is coming from its roots in the 
+90’s and early 2000’s as one brand focused 
+on being the best in its category. The Zune brand 
+has since flourished and matured into a 
+multi-faceted media device that offers a 
+great user experience and has grown to 
+become not only the most popular but also one 
+of the most valuable and best-selling music player 
+in the world. The",,
+,,,,,"strength', 'leg', 'able'","Strength leg able
+
+Tone down the voice and in the last verse, while 
+the melody, which is also called the ""tang-tang,"" 
+is used as the song's climax, it ends with the 
+introduction of an ""inversion."" The voice in this 
+""inversion"" is voiced by female singer, Chen Guiren.
+
+The composition was released in December 2001.
+
+Overview
+The song is a classical piece composed",,
+,,,,,"fact', 'times', 'pedaling'","Fact times pedaling a bicycle:
+
+Time: 1:08
+
+Date: April 26, 2013
+
+The Bicycle Institute's Bill,
+
+After the recent Bicycle
+Week was a delight, but the Bicycle Institute's 
+new leadership
+has gone even further. The Institute's founding 
+Director,
+Mark T. Hall, passed away last month at the 
+age of 67, leaving
+no doubt that this was a tough year for the Institute",,
+,,,,,"fitness', 'study', 'seconds'","Fitness study seconds.
+
+The fitness study seconds also features an 
+added option to view your heart rate while the 
+exercise is in progress.
+
+“My new device provides a great insight into how 
+your body moves while you exercise and how 
+much effort you’re going to need to put into 
+each set,” says Dave Smith, CEO of AEROS. 
+“Not only can you see the heart-rate in real-",,
+,,,,,"year', 'college', 'intense'","Year college intense is not a term that most 
+people associate with their friends. However, 
+the term means just what it says: College with 
+intense activities. According to the United States 
+Department of Education, in 2013, 43% of all 
+four-year public colleges had some sort of
+ intense activity or event (i.e. an event such as 
+a dance, concert, team activity or other). What 
+does this mean to students? Essentially, it 
+means that",,
+,,,,,,,,
+,,3,"Even people whose favorite workout is walking might need
+ less than they think to reach an exercise sweet spot, 
+other new research suggested. As I wrote in July,  the 
+familiar goal of 10,000 daily steps, deeply embedded in 
+our activity trackers and collective consciousness, has 
+little scientific validity. It is a myth that grew out of a 
+marketing accident, and a study published summer further 
+debunked it, finding that people who took between 7,000 
+and 8,000 steps a day, or a little more than three miles, 
+generally lived longer than those strolling less or 
+accumulating more than 10,000 steps. So keep moving, 
+but there’s no need to fret if your total doesn’t reach a 
+five-figure step count.","people', 'favorite', 'workout', 'exercise', 
+'sweet', 'spot', 'new', 'research', 'july', 
+'familiar', 'goal', 'daily', 'steps', 'activity', 
+'trackers', 'collective', 'consciousness', 
+'little', 'scientific', 'validity', 'myth',
+ 'marketing', 'accident', 'study', 
+'summer', 'people', 'steps', 'day', 
+'little', 'miles', 'steps', 'need', 'total', 
+'figure', 'step', 'count'","little', 'july', 'marketing'",,,
+,,,,,"accident', 'familiar', 'favorite'",,,
+,,,,,"total', 'activity', 'figure'",,,
+,,,,,"scientific', 'steps', 'research'",,,
+,,,,,"daily', 'new', 'activity'",,,
+,,,,,"validity', 'consciousness', 'trackers'",,,
+,,,,,"study', 'new', 'steps'",,,
+,,,,,"study', 'steps', 'marketing'",,,
+,,,,,"people', 'miles', 'people'",,,
+,,,,,"sweet', 'steps', 'workout'",,,
+,,,,,,,,
+Medical,"The Year in Fitness: Shorter Workouts, Greater 
+Clarity, Longer Lives",1,"You may have long thought your blood pressure was 
+within normal limits. But in 2017, based on better long-
+term data, experts lowered the numbers that constitute a 
+healthy blood pressure, resulting in a greater proportion of 
+the population with this risky condition. The former upper
+ limit of “normal” blood pressure, once believed to be 140 
+over 90 millimeters of mercury, was recognized as too 
+high to prevent serious health problems over time. The 
+current upper limit of normal is 130 over 80, and a blood 
+pressure consistently above 120 over 80 is now 
+considered problematic.","blood', 'pressure', 'normal', 'limits', 'better', 
+'long-', 'term', 'data', 'experts', 'numbers', 
+'healthy', 'blood', 'pressure', 'greater', 
+'proportion', 'population', 'risky', 'condition', 
+'upper', 'limit', 'normal', 'blood', 'pressure', 
+'millimeters', 'mercury', 'high', 'health', 
+'problems', 'time', 'current', 'upper', 'limit', 
+'normal', 'blood', 'pressure', 'problematic'","normal', 'blood', 'numbers'",,,
+,,,,,"pressure', 'blood', 'pressure'",,,
+,,,,,"pressure', 'healthy', 'pressure'",,,
+,,,,,"time', 'condition', 'current'",,,
+,,,,,"data', 'proportion', 'experts'",,,
+,,,,,"data', 'blood', 'problematic'",,,
+,,,,,"experts', 'risky', 'limits'",,,
+,,,,,"current', 'health', 'limit'",,,
+,,,,,"upper', 'condition', 'blood'",,,
+,,,,,"pressure', 'blood', 'upper'",,,
+,,,,,,,,
+,,2,"The study involved 27,599 adults, 35.4 percent of whom 
+had uncontrolled hypertension, who were part of the 
+National Health and Nutrition Examination Surveys. The 
+periodic surveys, which are known as NHANES and track 
+the health of a representative sample of Americans, found 
+that many people took medications and other substances 
+that could raise an otherwise normal blood pressure or 
+limit the effectiveness of treatment prescribed to lower an 
+elevated blood pressure.","study', 'adults', 'percent', 'uncontrolled',
+ 'hypertension', 'national', 'health', 
+'nutrition', 'examination', 'surveys', 
+'periodic', 'surveys', 'nhanes', 'track', 
+'health', 'representative', 'sample', 
+'americans', 'people', 'medications', 
+'substances', 'normal', 'blood', 'pressure', 
+'effectiveness', 'treatment', 'elevated',
+ 'blood', 'pressure'","nutrition', 'surveys', 'examination'",,,
+,,,,,"medications', 'examination', 'uncontrolled'",,,
+,,,,,"uncontrolled', 'treatment', 'track'",,,
+,,,,,"normal', 'track', 'surveys'",,,
+,,,,,"substances', 'elevated', 'surveys'",,,
+,,,,,"surveys', 'representative', 'effectiveness'",,,
+,,,,,"pressure', 'treatment', 'percent'",,,
+,,,,,"blood', 'treatment', 'representative'",,,
+,,,,,"percent', 'blood', 'health'",,,
+,,,,,"periodic', 'medications', 'blood'",,,
+,,3,"There’s a long list of prescribed medications, as well as 
+over-the-counter drugs and recreational substances and 
+supplements, that can interfere with effective treatment for 
+hypertension. In addition to estrogen-containing drugs and
+ NSAIDS, the list includes widely used medicines like 
+antidepressants and oral steroids such as cortisone; 
+substances like nicotine, alcohol and cocaine; herbal 
+supplements like licorice or ginseng; and, of course, salt.
+ Caffeine, too, can raise blood pressure over the short-
+term in some people.","long', 'list', 'prescribed', 'medications', 
+'counter', 'drugs', 'recreational', 
+'substances', 'supplements', 'effective', 
+'treatment', 'hypertension', 'addition', 
+'estrogen', 'drugs', 'nsaids', 'list', 
+'medicines', 'antidepressants', 'oral', 
+'steroids', 'cortisone', 'substances', 
+'nicotine', 'alcohol', 'cocaine', 'herbal', 
+'supplements', 'licorice', 'ginseng',
+'course', 'salt', 'caffeine', 'blood', 'pressure',
+ 'short-', 'term', 'people'","substances', 'short', 'drugs'",,,
+,,,,,"recreational', 'herbal', 'pressure'",,,
+,,,,,"treatment', 'course', 'salt'",,,
+,,,,,"supplements', 'licorice', 'term'",,,
+,,,,,"estrogen', 'list', 'medicines'",,,
+,,,,,"substances', 'ginseng', 'supplements'",,,
+,,,,,"caffeine', 'prescribed', 'oral'",,,
+,,,,,"alcohol', 'licorice', 'herbal'",,,
+,,,,,"list', 'steroids', 'supplements'",,,
+,,,,,"oral', 'treatment', 'list'",,,
+,,,,,,,,
+Personality,Michael Phelps: 'I Can't See Any More Suicides,1,"In recent weeks, as they have braced for the release of the
+film and the criticism it levels at a system that long 
+prioritized winning over everything else, Olympic officials 
+past and present have noted all the perks Phelps received 
+during his career, including top training and coaching, 
+access to cutting-edge technology and a two-bedroom 
+suite at the Olympic Training Center in Colorado Springs 
+that only he and the occasional visiting physician used if 
+he wasn’t there. Everyone else slept in single or double 
+rooms.","recent', 'weeks', 'release', 'film', 'criticism',
+ 'system', 'olympic', 'officials', 'past', 
+'present', 'perks', 'phelps', 'career', 
+'training', 'coaching', 'access', 'edge', 
+'technology', 'bedroom', 'suite', 'olympic', 
+'training', 'center', 'colorado', 'springs', 
+'occasional', 'physician', 'single', 'double', 
+'rooms'","single', 'double', 'career'",,,
+,,,,,"colorado', 'springs', 'technology'",,,
+,,,,,"weeks', 'training', 'access'",,,
+,,,,,"single', 'past', 'bedroom'",,,
+,,,,,"weeks', 'technology', 'officials'",,,
+,,,,,"training', 'perks', 'officials'",,,
+,,,,,"center', 'double', 'present'",,,
+,,,,,"edge', 'weeks', 'career'",,,
+,,,,,"past', 'physician', 'training'",,,
+,,,,,"suite', 'olympic', 'center'",,,
+,,,,,,,,
+,,2,"But that uneven treatment and response to the film,Phelps
+ said in an interview this week, illustrates how Olympic 
+officials and coaches view athletes as valuable assets 
+during their brief windows of Olympic glory, but then 
+leave them largely on their own during the years between 
+Games. And when their careers are interrupted or over, 
+the system moves on to the next star.“I feel like they don’t 
+care about anything I do right now,” Phelps, 35, said of 
+the United States Olympic and Paralympic Committee. ","uneven', 'treatment', 'response', 'film', 
+'phelps', 'interview', 'week', 'olympic', 
+'officials', 'coaches', 'athletes', 'valuable', 
+'assets', 'brief', 'windows', 'olympic', 'glory',
+'years', 'games', 'careers', 'system', 'star', 
+'phelps', 'united', 'states', 'olympic', 
+'paralympic', 'committee'","careers', 'treatment', 'olympic'",,,
+,,,,,"games', 'week', 'valuable'",,,
+,,,,,"careers', 'coaches', 'united'",,,
+,,,,,"star', 'interview', 'response'",,,
+,,,,,"olympic', 'brief', 'years'",,,
+,,,,,"response', 'system', 'windows'",,,
+,,,,,"officials', 'system', 'treatment'",,,
+,,,,,"valuable', 'star', 'film'",,,
+,,,,,"united', 'coaches', 'valuable'",,,
+,,,,,"united', 'interview', 'olympic'",,,
+,,,,,,,,
+,,3,"In recent months, the committee,which says it has always 
+welcomed and wanted Phelps’s input, has formed a 
+mental health task force to help change and expand a 
+system that its chief executive, Sarah Hirshland, has 
+made clear needs to be updated. The organization takes
+ roughly 1,000 athletes combined to the Winter and 
+Summer Olympics during each four-year cycle but has 
+just three mental health officers on its staff. ","recent', 'months', 'committee', 'phelps', 
+'input', 'mental', 'health', 'task', 'force', 
+'system', 'chief', 'executive', 'sarah', 
+'hirshland', 'clear', 'needs', 'organization', 
+'athletes', 'winter', 'summer', 'olympics', 
+'year', 'cycle', 'mental', 'health', 'officers', 
+'staff'","health', 'officers', 'system'",,,
+,,,,,"recent', 'cycle', 'sarah'",,,
+,,,,,"staff', 'committee', 'health'",,,
+,,,,,"system', 'year', 'recent'",,,
+,,,,,"hirshland', 'needs', 'mental'",,,
+,,,,,"sarah', 'staff', 'athletes'",,,
+,,,,,"olympics', 'athletes', 'system'",,,
+,,,,,"athletes', 'year', 'clear'",,,
+,,,,,"cycle', 'clear', 'health'",,,
+,,,,,"recent', 'health', 'sarah'",,,
+,,,,,,,,
+Human Rights,‘We’ve Never Been Smuggled Before’,1,"In a room with grimy walls and a few soiled blankets, I met
+ Jawad and Shukria, a newlywed couple who had recently 
+arrived from Kabul. Slender and reserved, they were 
+wearing matching maroon sweaters, Shukria’s under a 
+beige head scarf. (For their safety I am using only their 
+first names.) Jawad had studied biochemistry, and had 
+saved up enough by working in a hospital to open his own 
+small medical lab. That was where he met Shukria, who 
+hadn’t finished her university studies. Theirs was a love 
+marriage, uncommon in Afghanistan; they had wed against 
+his parents’ wishes. “I didn’t take any money from them,” 
+Jawad told me with a touch of pride, as Shukria smiled.","room', 'grimy', 'walls', 'soiled', 'blankets', 
+'jawad', 'shukria', 'newlywed', 'couple', 
+'kabul', 'slender', 'reserved', 'maroon', 
+'sweaters', 'shukria', 'beige', 'head', 'scarf', 
+'safety', 'names', 'jawad', 'biochemistry', 
+'hospital', 'small', 'medical', 'lab', 'shukria', 
+'university', 'studies', 'love', 'marriage', 
+'uncommon', 'afghanistan', 'parents', 
+'wishes', 'money', 'jawad', 'touch', 'pride'","money', 'university', 'maroon'",,,
+,,,,,"medical', 'beige', 'money'",,,
+,,,,,"wishes', 'touch', 'sweaters'",,,
+,,,,,"slender', 'love', 'biochemistry'",,,
+,,,,,"head', 'names', 'walls'",,,
+,,,,,"jawad', 'shukria', 'marriage'",,,
+,,,,,"reserved', 'small', 'studies'",,,
+,,,,,"shukria', 'medical', 'university'",,,
+,,,,,"couple', 'reserved', 'names'",,,
+,,,,,"university', 'pride', 'jawad'",,,
+,,,,,,,,
+,,2,"The desert road from Nimruz was normally used by the 
+poorest Afghans, those who couldn’t afford passports or 
+visas to Iran. The smuggler whom Jawad and Shukria had 
+paid told me that most of his clients were going there to 
+find work — what Western governments label “economic 
+migrants.” But when the Taliban captured Kabul and the 
+country’s border crossings, there’d been a rush of 
+government officials, journalists and civil society activists 
+who fled to Nimruz — I was told that a prominent female 
+governor had passed through this hotel, in disguise, 
+shortly after the collapse — to make the dangerous,
+illegal crossing alongside the male laborers.","desert', 'road', 'nimruz', 'poorest', 'afghans', 
+'passports', 'visas', 'iran', 'smuggler', 
+'jawad', 'shukria', 'clients', 'work', 'western', 
+'governments', 'economic', 'migrants', 
+'taliban', 'kabul', 'country', 'border', 
+'crossings', 'rush', 'government', 'officials', 
+'journalists', 'civil', 'society', 'activists', 
+'nimruz', 'prominent', 'female', 'governor',
+'hotel', 'disguise', 'collapse', 'dangerous',
+'illegal', 'crossing', 'male', 'laborers'","poorest', 'smuggler', 'taliban'",,,
+,,,,,"nimruz', 'work', 'crossing'",,,
+,,,,,"iran', 'rush', 'male'",,,
+,,,,,"journalists', 'prominent', 'female'",,,
+,,,,,"economic', 'governments', 'male'",,,
+,,,,,"work', 'activists', 'jawad'",,,
+,,,,,"civil', 'crossings', 'male'",,,
+,,,,,"economic', 'country', 'society'",,,
+,,,,,"clients', 'hotel', 'rush'",,,
+,,,,,"western', 'desert', 'afghans'",,,
+,,,,,,,,
+,.,3,"When the United States toppled the Taliban in 2001, 
+millions of Afghans returned home, in the largest voluntary 
+refugee repatriation program in U.N. history. They wanted 
+to rebuild their country, and hoped that the West would 
+keep its promises of security and development. But as 
+violence got worse, Afghans started to doubt those 
+promises and leave again, heading overland to Europe, or 
+taking boats from Southeast Asia to Australia. And as their 
+asylum claims rose, Western countries stepped up efforts 
+to keep Afghans out. It became increasingly difficult for 
+them to get visas to visit or study abroad, for fear they 
+would claim refugee status.","united', 'states', 'taliban', 'millions', 
+'afghans', 'largest', 'voluntary', 'refugee', 
+'repatriation', 'program', 'u.n', 'history', 
+'country', 'west', 'promises', 'security', 
+'development', 'violence', 'worse', 'afghans', 
+'promises', 'europe', 'boats', 'southeast', 
+'asia', 'australia', 'asylum', 'claims', 
+'western', 'countries', 'efforts', 'afghans', 
+'difficult', 'visas', 'fear', 'refugee', 'status'","refugee', 'australia', 'visas'",,,
+,,,,,"claims', 'u.n', 'australia'",,,
+,,,,,"southeast', 'program', 'states",,,
+,,,,,"west', 'united', 'worse'",,,
+,,,,,"development', 'history', 'united'",,,
+,,,,,"largest', 'country', 'west'",,,
+,,,,,"europe', 'largest', 'millions'",,,
+,,,,,"promises', 'refugee', 'western'",,,
+,,,,,"united', 'western', 'claims'",,,
+,,,,,"asia', 'claims', 'security'",,,
